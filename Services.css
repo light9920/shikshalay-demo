@@ -1,0 +1,9 @@
+.playlist {
+  background-color: #272727;
+}
+
+.player-1 {
+  border: 20px solid white;
+  align-items: center;
+  margin: 0 auto;
+}
